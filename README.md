@@ -4,15 +4,15 @@ A RESTful API built with Node.js, ExpressJS, and MongoDB to manage a simple task
 
 ## Features
 
-# Create, Read, Update, and Delete tasks
+Create, Read, Update, and Delete tasks
 
-# Custom task ID management
+Custom task ID management
 
-# MongoDB integration using Mongoose
+MongoDB integration using Mongoose
 
-# Proper error handling with meaningful messages
+Proper error handling with meaningful messages
 
-# Standard API responses
+Standard API responses
 
 ## Prerequisites
 Node.js
